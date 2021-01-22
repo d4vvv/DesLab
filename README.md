@@ -12,6 +12,8 @@ It reacts in the following way:
 * red circle - go right
 * green square - stop 
 * blue arrow - go left 
+* free space - go forward
+* blocked space - stop
 
 Whole project is based on Jupiter Notebooks:
 * data_collection.ipynb
