@@ -14,11 +14,11 @@ It reacts in the following way:
 * blue arrow - go left 
 
 Whole project is based on Jupiter Notebooks:
-* one
-* two 
-* three
+* data_collection.ipynb
+* train_model.ipynb
+* figures_recognition.ipynb
 
-
+As it can be seen in the video, our goal is fulfilled - the robot reacts properly to the symbols that it sees using camera. Unfortunately there was a hardware problem  - callibration of the wheels. Because of that in most attempts the robot didn't go in the straight line far enough to see the next symbol.
 
 
 
